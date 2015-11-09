@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+
+<exam source="National Center For University Entrance Examination" subject="SekaishiB(main exam)" year="2003">
+          Center-2003--Main-WorldHistoryB<br/>        
+  <title>
+                2003 Academic Year Main Examination: World History B<br />
+                  
+  </title>
+                
+  <question id="Q1" minimal="no">
+                    <label>[1]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Throughout world history, there have been cases in each part of the globe in which the frameworks of coexistence between people of different ethnic groups and religions have broken down, resulting in conflict.At the same time, efforts have been made to seek a path out of conflict, aimed at achieving coexistence.Read the following texts A-C, which relate to conflict and coexistence, and answer the questions (Questions 1-11) below.<br />
+                              (27 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D0" type="text">
+                              <label>A</label>The Great Wall of China was built along a route that more or less follows the 40th parallel north.On the southern side of the Great Wall, the world of agricultural peoples developed, while the world of nomads and hunting peoples spread out in the arid steppe zone (Mongolian plateau) and woodland zone (Northeastern China) on the northern side.<uText id="U1"><label>(1)</label> These two northern and southern worlds conducted trade from ancient times and had a relationship based on coexistence, but intense conflicts sometimes broke out</uText>.An example of a dynasty that sprang up from the world of the north and unified north and south is the <uText id="U2"><label>(2)</label>Qing dynasty</uText>.The present-day People's Republic of China exists as a multi-ethnic nation centered around the Han people, who form the overwhelming majority, and <uText id="U3"><label>(3)</label>this can be seen as being the result of it having basically inherited the realm of the final dynasty, the Qing dynasty</uText>.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A1" answer_style="multipleChoice" answer_type="sentence" id="Q2" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one correct sentence concerning conflict and coexistence between these two worlds, in relation to the underlined portion <ref comment="" target="U1">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A1">１</ansColumn><br/>                        
+      <choices anscol="A1" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Under the reign of Emperor Wu, the Han established Jiedushi [military governors] to prevent incursions by nomads.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Northern Wei eliminated the culture of the Han people and were passive in regard to ruling an agrarian society.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Tang strove for peace by sending goods such as silver and silk to the Liao and Western Xia each year.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Ming dispatched troops to the Mongolian plateau during the reign of the Yongle Emperor.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that correctly describes the policy implemented in regard to the various ethnic groups by the dynasty referred to in the underlined portion <ref comment="" target="U2">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A2">２</ansColumn><br/>                        
+      <choices anscol="A2" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>It promoted a policy of replacing the customs of the Manchu people with those of the Han people.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>It placed Tibet under the jurisdiction of the Lifan Yuan [Board for the Administration of Outlying Regions] as a fanbu ["barbarian area"].                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>It was a patron of scholarship and was also tolerant of anti-Qing sentiment among the Han people.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>It abolished the Mingsystem of bureaucracy and did not appoint Han people to important posts in the central government.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A3" answer_style="multipleChoice" answer_type="sentence" id="Q4" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U3">(3)</ref>, from (1)-(4) below, choose the one sentence that incorrectly describes regions a~d on the map below.                        
+      </instruction>
+                              <ansColumn id="A3">３</ansColumn><br/>                        
+      <data id="D12" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-001.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A3" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Under the Convention of Peking, the Qing ceded <ref comment="D000W21-001画像内">a</ref> to Russia.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Under the Treaty of Shimonoseki, the Qing affirmed that <ref comment="D000W21-001画像内">b</ref> was an independent nation.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>During the reign of the Kangxi Emperor, the Qing owned <ref comment="D000W21-001画像内">c</ref>.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>At the end of the 19th century, the Qing accepted <ref comment="D000W21-001画像内">d</ref> as the sphere of influence of the UK.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D1" type="text">
+                              <label>B</label>The three religions of Judaism, Christianity and Islam all arose in the region currently called the Middle East and coexisted for a long time under the rule of Muslim powers.This coexistence was also seen in <uText id="U4"><label>(4)</label>Palestine</uText>.However, amid intensifying persecution of Jews in Europe from the latter half of the 19th century, that coexistence headed toward collapse when a movement arose that sought the building of a Jewish state in Palestine.Following the outbreak of the First World War, in anticipation of controlling the Middle East, the UK<uText id="U5"><label>(5)</label>made conflicting commitments to Arabs and Jews regarding Palestine</uText>.Consequently, when the influx of Jews to the region increased sharply following the Great War, conflict with the Arabs who were the local inhabitants deepened and the <uText id="U6"><label>(6)</label>Palestine question</uText> emerged.Subsequently, the founding of Israel and repeated Arab-Israeli conflicts<uText id="U7"><label>(7)</label>gave rise to a large number of refugees</uText>.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A4" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the region referred to in the underlined portion <ref comment="" target="U4">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A4">４</ansColumn><br/>                        
+      <choices anscol="A4" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In this region, which was under Roman rule, Moses criticized the existing Jewish religion.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Umayyad Caliphate designated Jerusalem as its capital.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Christians built the Dome of the Rock, as they deemed Jerusalem to be a holy place.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>During the reign of the Rashidun Caliphate, Jerusalem came under the rule of Muslim powers.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A5" answer_style="multipleChoice" answer_type="(symbol-term_other)*2" id="Q6" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        The following sentences concern the commitments referred to in the underlined portion <ref comment="" target="U5">(5)</ref>.From (1)-(4) below, choose the correct combination of words that should be inserted into the gaps marked <ref target="B1">(a)</ref> and <ref target="B2">(b)</ref>.                        
+      </instruction>
+                              <ansColumn id="A5">５</ansColumn><br/>      <br/>                        
+      <data id="D13" type="text">
+                                        While promising independence to the Arabs in the <blank id="B1"><label>(a)</label></blank>, the UK agreed to the building of a "national home" for the Jewish people in Palestine in the <blank id="B2"><label>(b)</label></blank>, and also concluded a secret agreement with France and Russia to divide up Arab territory.                        
+      </data>
+                              <br/>                        
+      <choices anscol="A5" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref target="B1">a</ref>―Hussein-McMahon Correspondence<ref target="B2">b</ref>―Balfour Declaration                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref target="B1">a</ref>―Sykes-Picot Agreement<ref target="B2">b</ref>―Balfour Declaration                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref target="B1">a</ref>―Balfour Declaration<ref target="B2">b</ref>―Hussein-McMahon Correspondence                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref target="B1">a</ref>―Hussein-McMahon Correspondence<ref target="B2">b</ref>―Sykes-Picot Agreement                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A6" answer_style="multipleChoice" answer_type="sentence" id="Q7" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one incorrect sentence concerning the underlined portion <ref comment="" target="U6">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A6">６</ansColumn><br/>                        
+      <choices anscol="A6" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The United Nations adopted a proposal to divide up Palestine.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Palestine Liberation Organization (PLO) carried out activities aimed at building a Palestinian state.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Under the rule of President Nasser, Egypt concluded a peace treaty with Israel.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Palestine Liberation Organization (PLO) and Israel signed the Declaration of Principles on Interim Self-Government Arrangements.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A7" answer_style="multipleChoice" answer_type="sentence" id="Q8" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the sentence that is correct in regard to the specific one of the multiple Arab-Israeli conflicts causing the issue referred to in the underlined portion <ref comment="" target="U7">(7)</ref>, which gave rise to the flows of refugees shown in the map below.The diagonally-shaded area indicates the area under Israeli rule immediately after the conflict in question.                        
+      </instruction>
+                              <ansColumn id="A7">７</ansColumn><br/>                        
+      <data id="D14" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-002.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A7" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In the midst of this conflict, Araboil-producing countries commenced their oil strategy.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Along with Israel, the United States of America invaded Egypt, which had declared that it would nationalize the Suez Canal.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Jews founded a country in Palestine and went to war with the Arab nations that opposed this.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Israel carried out preemptive strikes on Arab nations and occupied part of the Sinai Peninsula, Syria and Jordan.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D2" type="text">
+                              <label>C</label>In multi-ethnic nations, consideration is sometimes given to a nation configuration known as a federal system, as one means of seeking coexistence between the various ethnic groups.For example, at the end of the 19th century, in its "Brunner Programm", the Social Democratic Party of Austria advocated reorganizing Austria, which was the part of <uText id="U8"><label>(8)</label>Austria-Hungary</uText> to the west of the Leitha River, into a democratic federation of its various ethnic groups.With regard to the federal system as a means of coexistence between ethnic groups, <uText id="U9"><label>(9)</label>Yugoslavia</uText>, Czechoslovakia and other such federations that were <uText id="U10"><label>(10)</label>socialist states</uText> collapsed at the end of the 20th century, leading to doubts about their effectiveness.However, as was the case in <uText id="U11"><label>(11)</label>Belgium</uText>, decentralization gradually progressed from the 1970s and it declared in its constitution that it was a federal state, when making constitutional amendments in 1993.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A8" answer_style="multipleChoice" answer_type="sentence" id="Q9" knowledge_type="KS,IC_M" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        The map below shows the distribution of the most populous ethnic groups in each region before the First World War in the country referred to in the underlined portion <ref comment="" target="U8">(8)</ref>.Based on this map, from (1)-(4) below, choose the most appropriate sentence to describe the territory in each country after the First World War.                        
+      </instruction>
+                              <ansColumn id="A8">８</ansColumn><br/>                        
+      <data id="D15" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-003.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A8" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>All of the regions in which ethnic Czech citizens were distributed became Czechoslovakian territory.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>All of the regions in which ethnic Slovenian citizens were distributed became Italian territory.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>All of the regions in which ethnic German citizens were distributed became Austrian territory.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>All of the regions in which ethnic Hungarian citizens were distributed became Hungarian territory.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A9" answer_style="multipleChoice" answer_type="sentence" id="Q10" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that correctly describes the history of the regions that formerly comprised Yugoslavia, in regard to the underlined portion <ref comment="" target="U9">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A9">９</ansColumn><br/>                        
+      <choices anscol="A9" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Bosnia and Herzegovina became independent of Austria-Hungary as a result of the Congress of Berlin (1878).                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The assassination [of Archduke Franz Ferdinand of Austria] in Sarajevo was the trigger for the First World War.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The dictatorial regime of Ceausescu was imposed during the final years of the socialist regime.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The civil war began when the Republic of Serbia declared its independence.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A10" answer_style="multipleChoice" answer_type="sentence" id="Q11" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U10">(10)</ref>.                        
+      </instruction>
+                              <ansColumn id="A10">10</ansColumn><br/>                        
+      <choices anscol="A10" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>During the Second World War, the Soviet Union sought to promote the spread of socialist revolution in the countries of Western Europe via Cominform.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Mongolian People's Republic came into existence at the beginning of the 1950s.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>After the Second World War, the Berlin blockade by the United States of America triggered the formation of the German Democratic Republic.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Castro regime, which was formed as a result of the Cuban Revolution, declared its adherence to socialism at the beginning of the 1960s.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A11" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q12" knowledge_type="KS" minimal="yes">
+                              <label>Question 11</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the correct combination of "correct" and "incorrect" in regard to the following sentences <ref target="L1">a</ref> and <ref target="L2">b</ref> concerning the country referred to in the underlined portion <ref comment="" target="U11">(11)</ref>.                        
+      </instruction>
+                              <ansColumn id="A11">11</ansColumn><br/>                        
+      <data id="D16" type="text">
+                                        <lText id="L1"><label>a</label>During the First World War, the armed forces of the Allies invaded this country.</lText><br />
+                                        <lText id="L2"><label>b</label>During the Second World War, the armed forces of the Axis powers invaded this country.</lText>                        
+      </data>
+                                                
+      <choices anscol="A11" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref target="L1">a</ref>- Correct<ref target="L2">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref target="L1">a</ref>- Correct<ref target="L2">b</ref>- Incorrect                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref target="L1">a</ref>- Incorrect<ref target="L2">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref target="L1">a</ref>- Incorrect<ref target="L2">b</ref>- Incorrect                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q13" minimal="no">
+                    <label>[2]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Maps provide a good reflection of people's scope of activity and perspectives on the world at the time they were created.Read the following sentences A-C, which relate to the making of maps and their historical backdrop, and answer the questions (Questions 1-10) below.<br />
+                              (25 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D3" type="text">
+                              <label>A</label>In ancientGreece and Rome, attempts were made to create the most accurate map of the world possible.The picture below shows a map believed to have originated from <blank id="B3"><label>(1)</label></blank>, who lived in Alexandria in about the 2nd century.In the Middle Ages, the map created by <ref target="B3">(1)</ref> was forgotten and "mappae mundi" [maps of the world], which projected the Christian perspective on the world, came to be drawn up.However, in the 13th century, maps for practical use began to be made in Italy, as a result of the development of commerce.Subsequently, the map created by <ref target="B3">(1)</ref> was rediscovered during the <uText id="U12"><label>(2)</label>Renaissance period</uText> and disseminated through printing; in addition, as a result of such developments as the advent of the <uText id="U13"><label>(3)</label>Age of Discovery</uText>, attempts to create accurate maps began in earnest in Europe.<br />
+                                                
+      <data id="D17" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-004.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A12" answer_style="multipleChoice" answer_type="term_person" id="Q14" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        The figure referred to as <ref target="B3">(1)</ref> is renowned for having systematized the geocentric model, which later had a major impact on astronomy in Europe.From (1)-(4) below, choose the correct name of that figure.                        
+      </instruction>
+                              <ansColumn id="A12">12</ansColumn><br/>                        
+      <choices anscol="A12" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Plutarch                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Ptolemy                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Euclid                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Pythagoras                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A13" answer_style="multipleChoice" answer_type="sentence" id="Q15" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U12">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A13">13</ansColumn><br/>                        
+      <choices anscol="A13" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The House of Medici in Venice is renowned for having been a patron of Renaissance culture.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Boccaccio was a leading painter of the Renaissance period.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Cervantes, who wrote Don Quixote, was a leading writer in Spain during the Renaissance.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Rabelais satirized the corruption of the Church and clergy in In Praise of Folly.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A14" answer_style="multipleChoice" answer_type="sentence" id="Q16" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one incorrect sentence concerning the underlined portion <ref comment="" target="U13">(3)</ref>.                        
+      </instruction>
+                              <ansColumn id="A14">14</ansColumn><br/>                        
+      <choices anscol="A14" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Magallanes (Magellan) sailed south on the Atlantic at the behest of the Portuguese king.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Toscanelli's theory of the spherical Earth influenced the voyages of Columbus.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>InfanteHenrique of Portugal dispatched expeditions to the west coast of Africa.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Columbus received support from QueenIsabella of Spain.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D4" type="text">
+                              <label>B</label>Many missionaries from the Society of Jesus arrived in <uText id="U14"><label>(4)</label>Ming-and-Qing-dynastyChina</uText>, and the maps that they made had a major impact on the subsequent development of geography in China.In the 18th century, missionaries who had received orders from the <uText id="U15"><label>(5)</label>Kangxi Emperor</uText> were at the heart of efforts to create a number of partial maps, including maps of the dominion of the Qing dynasty and adjacent regions; these were compiled into a map covering a single scroll and presented to the emperor.This map was called the <uText id="U16"><label>(6)</label>Huang Yu Quan Lan Tu [Map of the Emperor's Territory]</uText> by the Kangxi Emperor and formed the basis of the maps made during the reign of the Yongzheng and Qianlong Emperors.The picture below shows a partial view from the Huang Yu Quan Lan Tu, which was published once more in the first half of the 20th century, using surviving copper plates of the map.<br />
+                                                
+      <data id="D18" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-005.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A15" answer_style="multipleChoice" answer_type="sentence" id="Q17" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the most appropriate sentence that describes scholarship and culture during the Ming and Qing periods in regard to the underlined portion <ref comment="" target="U14">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A15">15</ansColumn><br/>                        
+      <choices anscol="A15" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Yongle Emperor ordered the compilation of the Siku Quanshu [The Complete Library in the Four Branches of Literature], which was an official commentary on the Confucian classics.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Gu Yanwu developed the doctrine advocated by Qian Daxin and established it as kaozheng xue [evidential scholarship].                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Manuals and technical books about industrial technology and pharmacology were written during the Ming period.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The novel Hong Lou Meng [Dream of the Red Chamber] was written during the Ming period.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A16" answer_style="multipleChoice" answer_type="sentence" id="Q18" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that correctly describes matters that occurred during the reign of the emperor referred to in the underlined portion <ref comment="" target="U15">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A16">16</ansColumn><br/>                        
+      <choices anscol="A16" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Junjichu [Grand Council] was established and became the top political body.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Qing seized Beijing and made it their capital.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Amherst was sent to the Qing court as the UK's envoy.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Proselytizing by missionaries other than those from the Society of Jesus was prohibited.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A17" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q19" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the correct combination of "correct" and "incorrect" in regard to the following sentences <ref target="L3">a</ref> and <ref target="L4">b</ref> concerning the map referred to in underlined portion <ref comment="" target="U16">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A17">17</ansColumn><br/>                        
+      <data id="D19" type="text">
+                                        <lText id="L3"><label>a</label>It is a map drawn up on the basis of actual measurements.</lText><br />
+                                        <lText id="L4"><label>b</label>It is a map of the whole world, including the African continent and the Americas.</lText>                        
+      </data>
+                                                
+      <choices anscol="A17" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref target="L3">a</ref>- Correct<ref target="L4">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref target="L3">a</ref>- Correct<ref target="L4">b</ref>- Incorrect                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref target="L3">a</ref>- Incorrect<ref target="L4">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref target="L3">a</ref>- Incorrect<ref target="L4">b</ref>- Incorrect                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A18" answer_style="multipleChoice" answer_type="sentence" id="Q20" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the most appropriate sentence that describes the history of the Shandong Peninsula, which is shown on the map.                        
+      </instruction>
+                              <ansColumn id="A18">18</ansColumn><br/>                        
+      <choices anscol="A18" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>During the Warring States period, the Zhao state made this peninsula their domain.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>During the 2nd century BCE, Emperor Wu of Han established the Lelang Commandery on this peninsula.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>During the 10th century, the Liao held the Sixteen Prefectures, which were located on this peninsula.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>At the end of the 19th century, Germany leased Jiaozhou Bay [the Kiautschou Bay concession].                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D5" type="text">
+                              <label>C</label>Maps were revised in response to changes in the territory of each state.After conquering Siberia, maps were drawn up in Russia based on new geographical knowledge.Subsequently, as well as <uText id="U17"><label>(7)</label>advancing to the banks of the Heilong River (Amur River) and the Pacific coast</uText>, Russia also <uText id="U18"><label>(8)</label>invaded Central Asia</uText>.Thus, Russia grew to become a large empire.After the collapse of the Russian Empire, the <uText id="U19"><label>(9)</label>Soviet Union</uText>, which was formed in 1922, progressively reunified the majority of the territory of the former Russian Empire under the socialist system.This realm occupied just under one-sixth of all the land in the world.However, following the 1991dismantling of the Soviet Union, many independent nations were formed in former Soviet realms and maps underwent major revisions.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A19" answer_style="multipleChoice" answer_type="referenceSymbol" id="Q21" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose which of the letters <ref comment="D000W22-003画像内">a</ref>-<ref comment="D000W22-003画像内">d</ref> on the map below corresponds most closely to the location of the place whose name was used in the name of a treaty concluded in the latter half of the 19th century between Russia and the Qing court, in relation to the underlined portion <ref comment="" target="U17">(7)</ref>.                        
+      </instruction>
+                              <ansColumn id="A19">19</ansColumn><br/>                        
+      <data id="D20" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-006.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A19" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="D000W22-003画像内">a</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="D000W22-003画像内">b</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="D000W22-003画像内">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="D000W22-003画像内">d</ref>                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A20" answer_style="multipleChoice" answer_type="sentence" id="Q22" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that correctly describes Russia's invasion of Central Asia in the latter half of the 19th century in regard to the underlined portion <ref comment="" target="U18">(8)</ref>.                        
+      </instruction>
+                              <ansColumn id="A20">20</ansColumn><br/>                        
+      <choices anscol="A20" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>It fought the Safavid dynasty concerning national borders and acquired territory,                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>It merged with the Kipchak Khanate.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>It subjugated the three khanates of Bukhara, Khiva and Kokand.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>It destroyed the Ilkhanate.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A21" answer_style="multipleChoice" answer_type="sentence" id="Q23" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the country referred to in the underlined portion <ref comment="" target="U19">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A21">21</ansColumn><br/>                        
+      <choices anscol="A21" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>After the formation of this country, Japan began the War of Intervention, as it feared the spread of revolution.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The United States of America recognized this country in the 1930s.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The three Baltic states were involved in the formation of this country.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Romania became independent from this country.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q24" minimal="no">
+                    <label>[3]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              The invention of writing has had extremely great significance over the course of human history.Read the following texts A-C, which relate to the history and culture of writing, and answer the questions (Questions 1-10) below.<br />
+                              (24 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D6" type="text">
+                              <label>A</label>The photograph below shows a piece of papyrus with an order that it is believed was issued to a Romansoldier in 33 BCE by <uText id="U20"><label>(1)</label>QueenCleopatra</uText>, the last pharaoh of the Ptolemaic dynasty of Egypt.The inscription written on it in the Greek alphabet means "make it happen".<uText id="U21"><label>(2)</label>In ancient societies, various materials were used to write down a range of characters</uText>.For example, in Athens at the end of the 6th century BCE, in the system established as a result of the reforms by Cleisthenes in order to <blank id="B4"><label>(A)</label></blank>, <blank id="B5"><label>(B)</label></blank> were used to vote.<br />
+                                                
+      <data id="D22" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-007.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A22" answer_style="multipleChoice" answer_type="sentence" id="Q25" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that correctly describes the political situation in Egypt and Rome at the time when the figure referred to in the underlined portion <ref comment="" target="U20">(1)</ref> was the queen of Egypt.                        
+      </instruction>
+                              <ansColumn id="A22">22</ansColumn><br/>                        
+      <choices anscol="A22" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Second Triumvirate was formed by Octavian, Mark Antony and Crassus.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Rome seized Sicily from Egypt and made it a Roman province.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The conflict between Octavian and Mark Antony deepened over the status of Pompey's successor.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Cleopatra and Mark Antony had a cooperative relationship.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A23" answer_style="multipleChoice" answer_type="sentence" id="Q26" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that incorrectly describes characters and written records in regard to the underlined portion <ref comment="" target="U21">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A23">23</ansColumn><br/>                        
+      <choices anscol="A23" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Rosetta Stone has a section written in the Greek alphabet.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Cuneiform script was mainly inscribed on clay tablets, but there are also examples of its use in inscriptions on monuments.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Book of the Dead is written on papyrus in the Aramaic alphabet.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Indus script is engraved on seals, among other things, but it has not yet been deciphered.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A24" answer_style="multipleChoice" answer_type="(symbol-sentence)(symbol-term_other)" id="Q27" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the correct combination of words that should be inserted into the gaps marked <ref comment="" target="B4">(A)</ref> and <ref target="B5">(B)</ref>.                        
+      </instruction>
+                              <ansColumn id="A24">24</ansColumn><br/>                        
+      <choices anscol="A24" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref target="B4">A</ref>-prevent tyranny<ref target="B5">B</ref>-copper plates                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref target="B4">A</ref>-prevent tyranny<ref target="B5">B</ref>-shards of pottery                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref target="B4">A</ref>-elect a tribune<ref target="B5">B</ref>-copper plates                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref target="B4">A</ref>-elect a tribune<ref target="B5">B</ref>-shards of pottery                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D7" type="text">
+                              <label>B</label>At present, apart from Vietnam, which uses the Roman alphabet, the countries of continental Southeast Asia each have <uText id="U22"><label>(3)</label>their own script</uText> that is used to write their national language (see the diagram below).However, all of these scripts are similar, because they are derived from the script of southern India, which illustrates the fact that Indian culture was assimilated in Southeast Asia.If we look at the origins of these characters, we can trace them back to the Brahmi script that was already being used in <uText id="U23"><label>(4)</label>India in the 3rd century BCE</uText>.Southern Indianscript was also passed on to <uText id="U24"><label>(5)</label>the islands of Southeast Asia</uText>, including the Malay Peninsula, and central and southern Vietnam, but when Islam spread to these regions, the Arabic alphabet came to be used to write their languages.<br />
+                                                
+      <data id="D21" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-008.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A25" answer_style="multipleChoice" answer_type="sentence" id="Q28" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one correct sentence concerning the various types of script that have been used in parts of Asia, in relation to the underlined portion <ref comment="" target="U22">(3)</ref>.                        
+      </instruction>
+                              <ansColumn id="A25">25</ansColumn><br/>                        
+      <choices anscol="A25" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Tibetan alphabet was based on Indianscript.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Old Uyghur alphabet is the oldest nomadicscript.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Hunminjeongeum (hangul) was created during the Goryeo period.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Tangut script was devised to express the Mongolian language.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A26" answer_style="multipleChoice" answer_type="sentence" id="Q29" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U23">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A26">26</ansColumn><br/>                        
+      <choices anscol="A26" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Siddhartha Gautama founded Buddhism.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Ashoka aimed to rule on the basis of dharma.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Kanishka was a patron of Buddhism and gathered together Buddhist scriptures.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Chandragupta II ruled the whole of northern India.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A27" answer_style="multipleChoice" answer_type="sentence" id="Q30" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U24">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A27">27</ansColumn><br/>                        
+      <choices anscol="A27" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Mataram Sultanate flourished as the last Hindu kingdom on Java.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>During the Sailendra dynasty, Theravada Buddhism (Hinayana Buddhism) flourished.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Islam was the faith of the Malacca Sultanate.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Islamization of this region began with the southern Philippine Islands.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D8" type="text">
+                              <label>C</label><uText id="U25"><label>(6)</label>Latin</uText>, which was the language of the Romans, continued to be used as a written language, even in the Germanic tribal states that were formed from antiquity through to the beginning of the Middle Ages.It is said that it was in the 12th or 13th century that the people in each part of Western Europe began frequently to use Latin characters to express in writing the words that they spoke on a daily basis.When this development took place, <uText id="U26"><label>(7)</label>each area's poems and stories, which had previously been conveyed orally, began to be written down using this alphabet and began to become fixed</uText>.Eventually, the custom of creating documents in <uText id="U27"><label>(8)</label>languages other than Latin</uText> spread in official fields, such as government and law.From among these languages emerged some that became the official languages of modern states, forming the cornerstone of each national culture.<uText id="U28"><label>(9)</label>In the 18th and 19th centuries, many works began to be produced that were described as national literature</uText>.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A28" answer_style="multipleChoice" answer_type="sentence" id="Q31" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U25">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A28">28</ansColumn><br/>                        
+      <choices anscol="A28" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Hesiod wrote Works and Days, which describes the life of a farmer, in Latin.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Tacitus wrote Commentarii de Bello Gallico [Commentaries on the Gallic War], which depicted the social lives of the Germanic peoples in the final years of the Roman Empire, in Latin.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Academic books in Arabic were translated into Latin and had a major impact on scholarship in Europe during the Middle Ages.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(3)</cNum>In the Byzantine Empire, Latin continued to be used as the sole official language.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A29" answer_style="multipleChoice" answer_type="sentence" id="Q32" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U26">(7)</ref>, from (1)-(4) below, choose the one sentence that incorrectly describes literature in the world of Western Europe.                        
+      </instruction>
+                              <ansColumn id="A29">29</ansColumn><br/>                        
+      <choices anscol="A29" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In the courts, minstrels recited chansons de geste [songs of heroic deeds] and courtly love poems.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>In Italy, Dante wrote the Divine Comedy in the dialect of the Tuscany region.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>In Great Britain, the Matter of Britain was compiled, depicting the activities of Charlemagne and his warriors.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Nibelungenlied [The Lay of the Nibelungs] was compiled on the basis of the heroic legendary tales of the Germanic peoples,                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A30" answer_style="multipleChoice" answer_type="term_location" id="Q33" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U27">(8)</ref>, from (1)-(4) below, choose the correct word that fits into the gap marked <ref target="B6">(A)</ref> in the sentences below concerning the origins of English.                        
+      </instruction>
+                              <ansColumn id="A30">30</ansColumn><br/>      <br/>                        
+      <data id="D23" type="text">
+                                        Since ancient times, a variety of ethnic groups have repeatedly invaded the island of Britain, so English, which is a Germanic language, has been influenced by various languages over the course of centuries.Classifying the vocabulary of modern English by its etymology, as well as Ancient Greek and Latin, the influence of the language of <blank id="B6"><label>(A)</label></blank> is particularly conspicuous.<ref target="B6">A</ref>It is believed that the massive influx of words from <ref target="B6">(A)</ref> began after the conqueror who came from (A) in the latter half of the 11th century established a comparatively strong hold over the throne.                        
+      </data>
+                              <br/>                        
+      <choices anscol="A30" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Germany                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>France                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Denmark                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>the Netherlands                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A31" answer_style="multipleChoice" answer_type="sentence" id="Q34" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the sentence in which the word with a wavy line below it is correct in regard to European literature in the 18th and 19th centuries, in relation to the underlined portion <ref comment="" target="U28">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A31">31</ansColumn><br/>                        
+      <choices anscol="A31" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><uText id="U29">Classicism</uText>, which prized the supremacy of individuality and emotion, and revered history and the traditions of ethnic culture, flourished from the end of the 18th century to the first half of the 19th century.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>In Germany during the first half of the 19th century, <uText id="U30">Heine</uText>, who was called a revolutionary poet, wrote works such as Buch der Lieder [Book of Songs].                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>In Russia during the first half of the 19th century, <uText id="U31">Gorky</uText> published works such as his masterpiece Eugene Onegin, thereby establishing the country's national literature.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><uText id="U32">Romanticism</uText> emerged in the latter half of the 19th century, against the background of the maturing of civil society and the rapid development of science and technology.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q35" minimal="no">
+                    <label>[4]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              There have been various approaches to families and relatives in different regions and time periods.Read the following texts A-C, which relate to families and relatives throughout history, and answer the questions (Questions 1-10) below.<br />
+                              (24 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D9" type="text">
+                              <label>A</label>In China, familial groups called clans could be widely seen.Clans are groups organized by people who have a common ancestor and believe themselves to be linked by blood ties via the paternal line.They had the same family name and carried out activities such as conducting ancestral rituals and compiling genealogical books (records of the family line of a clan).Moreover, there was a fundamental rule of surname exogamy, which meant that a man and a <uText id="U33"><label>(1)</label>woman</uText> with the same family name could not marry.<uText id="U34"><label>(2)</label>Clans existed from ancient times</uText>, but it is certainly not the case that they continued unchanged throughout the centuries.For example, during the Qing period, <uText id="U35"><label>(3)</label>migration to the outlying regions of China and development</uText> progressed against the background of a sharp increase in the population, and new clans and groups of migrants from the same village were formed in the fluid migrant society, in order to deal with the unstable social environment.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A32" answer_style="multipleChoice" answer_type="sentence" id="Q36" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one correct sentence concerning matters pertaining to women in Chinese history, in relation to the underlined portion <ref comment="" target="U33">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A32">32</ansColumn><br/>                        
+      <choices anscol="A32" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Empress Wu Zetian was enthroned as empress regnant and named her dynasty the Zhou dynasty.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Emperor Xuanzong of Tang favored Yang Guifei, causing the Huang Chao Rebellion.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Wang Xizhi, who lived during the Eastern Jin dynasty, is known for Admonitions of the Court Instructress, which is a pictorial scroll featuring lessons for women of the court.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Taiping Heavenly Kingdom forced women to bind their feet.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A33" answer_style="multipleChoice" answer_type="sentence" id="Q37" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U34">(2)</ref>, from (1)-(3)  below, choose the one sentence that incorrectly describes clans and families from the Western Zhou through to the Warring States period.                        
+      </instruction>
+                              <ansColumn id="A33">33</ansColumn><br/>                        
+      <choices anscol="A33" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Clans sought unity via zong-fa [clan law].                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Clans were controlled by the state by means of the sanchang system of local administration.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Confucians attached importance to the practice of family morality in the form of filial piety and respect for one's elders.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Mohism advocated philanthropy (impartial care) that went beyond the family.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A34" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q38" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U35">(3)</ref>, from (1)-(4) below, choose the correct combination of "correct" and "incorrect" in regard to the following sentences <ref target="L5">a</ref> and <ref target="L6">b</ref> concerning migration and development in Chinese history.                        
+      </instruction>
+                              <ansColumn id="A34">34</ansColumn>                        
+      <data id="D24" type="text">
+                                        <lText id="L5"><label>a</label>During the Eastern Jin period, development progressed in the Jiangnan region, where the number of migrants had increased.<br />
+                                        </lText><lText id="L6"><label>b</label>Throughout the Ming period, migration overseas was encouraged.</lText>                        
+      </data>
+                                                
+      <choices anscol="A34" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref target="L5">a</ref>- Correct<ref target="L6">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref target="L5">a</ref>- Correct<ref target="L6">b</ref>- Incorrect                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref target="L5">a</ref>- Incorrect<ref target="L6">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref target="L5">a</ref>- Incorrect<ref target="L6">b</ref>- Incorrect                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D10" type="text">
+                              <label>B</label>Indian<uText id="U36"><label>(4)</label>Dharmasastra</uText> literature has discussed the "joint family" as the basic form of family.The joint family is a group formed through the paternal line, consisting of members spanning several generations, with rights to family property.However, it was the wealthy class, consisting mainly of the highest caste, which took as its ideal the joint family consisting of multiple households living together under the head of the household, and put this into practice.During the British colonial period, joint families were contrasted with <uText id="U37"><label>(5)</label>Western family and inter-gender relationships</uText> as a family type peculiar to Hindus, and were frequently praised from a <uText id="U38"><label>(6)</label>nationalistic standpoint</uText>.The strength of the family ties that were emphasized not only by Hindus but also in general in South Asia<uText id="U39"><label>(7)</label>is thought to be one of the factors that gave rise to the famous female politicians who emerged from this region</uText>.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A35" answer_style="multipleChoice" answer_type="term_other" id="Q39" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        The underlined portion <ref comment="" target="U36">(4)</ref> refers to the generic term for literature that indicates the code of conduct for each varna [caste].From (1)-(4) below, choose the most appropriate phrase concerning the name of the literature included in this.                        
+      </instruction>
+                              <ansColumn id="A35">35</ansColumn><br/>                        
+      <choices anscol="A35" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Code of Hammurabi                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Mahabharata                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Manusmrti [The Laws of Manu]                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Avesta                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A36" answer_style="multipleChoice" answer_type="sentence" id="Q40" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U37">(5)</ref>, from (1)-(4) below, choose the one sentence that incorrectly describes women's rights and changes in their status in the West.                        
+      </instruction>
+                              <ansColumn id="A36">36</ansColumn><br/>                        
+      <choices anscol="A36" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Women's suffrage began in the United States of America after the Second World War.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>During the Industrial Revolution in Great Britain, women and children were employed in factories as a cheap workforce.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Rosa Luxemburg was active as a leader of the Spartacus League.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>During the First World War, the Westerncountries participating in the war included some countries in which women had advanced into the workplace.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A37" answer_style="multipleChoice" answer_type="o(symbol-symbol-symbol)" id="Q41" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From (1)-(6) below, in regard to the underlined portion <ref comment="" target="U38">(6)</ref>, choose the option showing the correct sequence of events in phrases a-c below, starting with the oldest first, concerning colonial rule and nationalist movements in South Asia.                        
+      </instruction>
+                              <ansColumn id="A37">37</ansColumn><br/>                        
+      <data id="D25" type="text">
+                                        <lText id="L7"><label>a</label>The beginning of the passive resistance movement</lText><lText id="L8"><label>b</label>The formation of the All-India Muslim League<br />
+                                        </lText><lText id="L9"><label>c</label>The promulgation of the Partition of Bengal</lText>                        
+      </data>
+                                                
+      <choices anscol="A37" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="" target="L7">a</ref>→<ref comment="" target="L8">b</ref>→<ref comment="" target="L9">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="" target="L7">a</ref>→<ref comment="" target="L9">c</ref>→<ref comment="" target="L8">b</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="" target="L8">b</ref>→<ref comment="" target="L7">a</ref>→<ref comment="" target="L9">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="" target="L8">b</ref>→<ref comment="" target="L9">c</ref>→<ref comment="" target="L7">a</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                                  <cNum>(5)</cNum><ref comment="" target="L9">c</ref>→<ref comment="" target="L7">a</ref>→<ref comment="" target="L8">b</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="6">
+                                                  <cNum>(6)</cNum><ref comment="" target="L9">c</ref>→<ref comment="" target="L8">b</ref>→<ref comment="" target="L7">a</ref>                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A38" answer_style="multipleChoice" answer_type="sentence" id="Q42" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U39">(7)</ref>, many female politicians in South Asia are the wives or daughters of powerful politicians; for example, Indira Gandhi was the daughter of the figure in the photograph (see the photograph below), who was the first Prime Minister of India.From (1)-(4) below, choose the one sentence that is correct in regard to the figure in the photograph.                        
+      </instruction>
+                              <ansColumn id="A38">38</ansColumn><br/>                        
+      <data id="D26" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-009.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A38" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>He announced the Five Principles of Peaceful Coexistence along with Mao Zedong.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Sino-Indian War occurred during his term as Prime Minister.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>He opposed the resolution to demand Purna Swaraj (complete self-rule).                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>He participated in the founding of the Indian National Congress.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D11" type="text">
+                              <label>C</label>Today, research into social history is advancing and details of the lives of the common people of early modernFrance are emerging.During this period, it was not easy to live.It was not uncommon for women to lose their lives in childbirth and the infant mortality rate was also high, with only half of all babies reaching the age of 20.In an ordinary year, the number of live births was higher than the number of deaths, but due to the deterioration of the food situation as a result of poor weather or <uText id="U40"><label>(8)</label>war</uText>, as well as outbreaks of epidemics, the country was often beset by <uText id="U41"><label>(9)</label>population crises</uText>, in which a large number of deaths occurred.Approximately 80% of people were <uText id="U42"><label>(10)</label>farmers</uText> and they generally married neighbors in similar circumstances to themselves, but their family lives were constrained by these harsh conditions of existence.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A39" answer_style="multipleChoice" answer_type="sentence" id="Q43" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From (1)-(4) below, choose the one sentence that correctly describes matters concerning war in Europe in regard to the underlined portion <ref comment="" target="U40">(8)</ref>.                        
+      </instruction>
+                              <ansColumn id="A39">39</ansColumn><br/>                        
+      <choices anscol="A39" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Joan of Arc was active during the Wars of the Roses.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Louis XIII began the War of the Palatine Succession.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Great Britain won the Anglo-Dutch Wars in the 17th century.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Italian War of Unification occurred because of the problem of succession to the Spanish throne.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A40" answer_style="multipleChoice" answer_type="(symbol-term_other)*3" id="Q44" knowledge_type="KS,GK" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In relation to the underlined portion <ref comment="" target="U41">(9)</ref>, the following graph shows the number of baptisms (births), marriages and burials in a particular region of France, as well as an index of the price of wheat; one can see that a population crisis occurred on two occasions.From (1)-(6) below, choose the one correct combination of words to describe lines <ref comment="D000W24-002画像内">a</ref>-<ref comment="D000W24-002画像内">c</ref>.                        
+      </instruction>
+                              <ansColumn id="A40">40</ansColumn><br/>                        
+      <data id="D27" type="image">
+                                                                
+        <img src="Center-2003--Main-SekaishiB-010.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A40" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="D000W24-002画像内">a</ref>-Baptisms<ref comment="D000W24-002画像内">b</ref>-Marriages<ref comment="D000W24-002画像内">c</ref>-Burials                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="D000W24-002画像内">a</ref>-Baptisms<ref comment="D000W24-002画像内">b</ref>-Burials<ref comment="D000W24-002画像内">c</ref>-Marriages                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="D000W24-002画像内">a</ref>-Marriages<ref comment="D000W24-002画像内">b</ref>-Burials<ref comment="D000W24-002画像内">c</ref>-Baptisms                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="D000W24-002画像内">a</ref>-Marriages<ref comment="D000W24-002画像内">b</ref>-Baptisms<ref comment="D000W24-002画像内">c</ref>-Burials                                
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                                  <cNum>(5)</cNum><ref comment="D000W24-002画像内">a</ref>-Burials<ref comment="D000W24-002画像内">b</ref>-Baptisms<ref comment="D000W24-002画像内">c</ref>-Marriages                                
+        </choice>
+                                                                
+        <choice ansnum="6">
+                                                  <cNum>(6)</cNum><ref comment="D000W24-002画像内">a</ref>-Burials<ref comment="D000W24-002画像内">b</ref>-Marriages<ref comment="D000W24-002画像内">c</ref>-Baptisms                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A41" answer_style="multipleChoice" answer_type="sentence" id="Q45" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U42">(10)</ref>, from (1)-(4) below, choose the most appropriate sentence that describes events that are believed to have had a major impact on the lives of farmers in Europe.                        
+      </instruction>
+                              <ansColumn id="A41">41</ansColumn><br/>                        
+      <choices anscol="A41" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In the middle of the 10th century, a major outbreak of the Black Death (plague) caused a workforce shortage in agricultural communities, and the status of farmers improved.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Agricultural productivity improved and both village communities and cities prospered, so the feudal society collapsed between the 11th and 12th centuries.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>In Prussia, the emancipation of the serfs took place during the reign of Joseph II.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>In Great Britain, the farmers who had lost their land during the second enclosure movement provided a source of manpower for new industries.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+</exam>
