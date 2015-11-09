@@ -1,5 +1,7 @@
 *.class
 .DS_Store
 target
+.classpath
+.project
 !.gitignore
 
