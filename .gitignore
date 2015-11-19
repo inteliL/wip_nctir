@@ -1,4 +1,4 @@
-ass
+*.class
 .DS_Store
 target
 .classpath
