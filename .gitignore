@@ -1,0 +1,7 @@
+ass
+.DS_Store
+target
+.classpath
+.project
+!.gitignore
+data/output

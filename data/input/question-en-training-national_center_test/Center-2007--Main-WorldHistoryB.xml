@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exam PUBLIC "-//TOROBO//TOROBO ANNOTATION 1.0//EN" "torobo.dtd">
+<?xml-stylesheet type="text/css" href="../torobo.css"?>
+
+<exam source="National Center For University Entrance Examination" subject="SekaishiB(main exam)" year="2007">
+          Center-2007--Main-WorldHistoryB<br/>        
+  <title>
+                2007 Academic Year Main Examination: World History B<br />
+                  
+  </title>
+                
+  <question id="Q1" minimal="no">
+                    <label>[1]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Pilgrimages to religious sites and sacred places began to flourish as information about those places was gathered and transport links to them developed. Read the following texts A-C, which relate to visits to religious sites and the social phenomena to which they gave rise, and answer the questions (Questions 1-9) below.<br />
+                              (25 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D0" type="text">
+                              <label>A</label><br />
+                              Santiago de Compostela, which is located in the Galicia region in the northwest of the Iberian Peninsula, is an important place of pilgrimage in <uText id="U1"><label>(1)</label>Christianity</uText>.In the 9th century, a grave believed to be that of James, one of the apostles of Jesus, was discovered there and it became a Christian religious site, which began to be visited by many pilgrims from across Europe.A pilgrimage route called the "Way of St. James" developed and James came to be venerated as the patron saint of <uText id="U2"><label>(2)</label>pilgrims and travelers</uText>.At the same time, as the <uText id="U3"><label>(3)</label>Reconquista (reconquest and recovery of territory)</uText> on the Iberian Peninsula gathered pace, he also began to be positioned as the patron saint of Christians fighting against infidels.                
+    </data>
+                                  
+    <data id="D12" type="image">
+                                                
+      <img src="Center-2007--Main-SekaishiB-001.png"/>
+                                        
+    </data>
+                      <br/><br/>                    
+    <question anscol="A1" answer_style="multipleChoice" answer_type="sentence" id="Q2" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the underlined portion <ref comment="" target="U1">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A1">1</ansColumn><br/>                        
+      <choices anscol="A1" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>It was established based on the teachings of Jesus, who criticized Islam.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Its holy book is the New Testament.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>It was made the state religion by the Emperor Diocletian.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Wycliffe was declared a heretic at the Council of Clermont (ecumenical council).                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes travel and voyages in regard to the underlined portion <ref comment="" target="U2">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A2">2</ansColumn><br/>                        
+      <choices anscol="A2" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Columbus reached Kozhikode (Calicut) with the support of Queen Isabella of Spain.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Cook explored the Pacific islands with the support of King John II of Portugal.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Cabral was washed ashore in Brazil and claimed it as Portuguese territory.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Livingstone explored the African interior and visited the Kingdom of Aksum.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A3" answer_style="multipleChoice" answer_type="sentence" id="Q4" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the Iberian Peninsula when the underlined portion <ref comment="" target="U3">(3)</ref> took place.                        
+      </instruction>
+                              <ansColumn id="A3">3</ansColumn><br/>                        
+      <choices anscol="A3" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The king of the Visigothic Kingdom, which became independent from the Abbasid Caliphate, was called the Caliph.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Kingdom of Aragon was founded in the west of the Iberian Peninsula.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Almohad Caliphate, which advanced into the Iberian Peninsula, was overthrown by the Almoravid dynasty.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Nasrid dynasty built the Alhambra palace in Granada.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D1" type="text">
+                              <label>B</label><br />
+                              There are quite a few inscriptions by pilgrims on the stone pillars at <uText id="U4"><label>(4)</label>Angkor Wat</uText> in Cambodia.There are even a few written in ink by visitors from such Japanese provinces as Hizen, Higo and Sakai, during the first half of the 17th century.Of these, the inscription by Morimoto Ukondayu Kazufusa (see <ref target="D14">picture</ref> below) is particularly famous; in 1632, he wrote that he made offerings to four images of the Buddha, to pray for his parents’ future years.It is said that it was then that Kazufusa copied down the arrangement of the temple buildings and brought it back home, describing it as the famous Jetavana (Gion Shoja) Buddhist monastery that appears in the "Tale of the Heike".It appears that pilgrims from Japan at that time mistook Angkor Wat for a place in India where <uText id="U5"><label>(5)</label>Siddhartha Gautama</uText> taught.At any rate, the only reason why it became possible to visit this area as a "Buddhist religious site" is that trading ships licensed by the shogunate <uText id="U6"><label>(6)</label>at that time were traveling between Japan and Southeast Asia</uText>.                
+    </data>
+                                  
+    <data id="D13" type="image">
+                                                
+      <img src="Center-2007--Main-SekaishiB-002.png"/>
+                                        
+    </data>
+                      <br/><br/>                   
+    <question anscol="A4" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From 1-4 below, choose the most appropriate sentence concerning the underlined portion <ref comment="" target="U4">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A4">4</ansColumn><br/>                        
+      <choices anscol="A4" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>It was built by the Srivijaya Kingdom.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>It was built during the same period as the Vardhana dynasty ruled in India.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>It was built by Chandragupta II.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>It was originally built as a Hindu temple.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A5" answer_style="multipleChoice" answer_type="sentence" id="Q6" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the propagation of the teachings of the figure referred to in the underlined portion <ref comment="" target="U5">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A5">5</ansColumn><br/>                        
+      <choices anscol="A5" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In India, Mahayana Buddhism spread during the rule of the Mauryan dynasty.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>In China, Xuanzang traveled to India and brought home the Buddhist scriptures during the Tang period.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>In Indonesia, Theravada Buddhism spread during the rule of the Pagan Kingdom.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>On the Korean Peninsula, Buddhism was first introduced during the Joseon (Yi dynasty) period.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A6" answer_style="multipleChoice" answer_type="sentence" id="Q7" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes Southeast Asia from the latter half of the 16th century until the first half of the 17th century in regard to the underlined portion <ref comment="" target="U6">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A6">6</ansColumn><br/>                        
+      <choices anscol="A6" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Manila was a Spanish trading post.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Tran dynasty was established in Vietnam.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>On the Malay Peninsula, the Malacca Sultanate prospered through maritime trade.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>In Thailand, the Sukhothai Kingdom prospered through trade.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D2" type="text">
+                              <label>C</label><br />
+                              <uText id="U7">The <label>(7)</label>Islamic pilgrimage not only had a religious significance, but also had an important political meaning.</uText>Moreover, due to the expansion of Islam and the development of means of transport, pilgrims from distant lands also began to participate.<uText id="U8"><label>(8)</label>Kotaro Yamaoka, who is said to have been the first Japanese pilgrim to Mecca</uText>, developed a deeper interest in Islam through his interactions with an ulama (Muslim scholar), who was seeking the liberation of Muslims from the rule of the Russian Empire.In 1909, on his first journey of pilgrimage, which he undertook under the guidance of this ulama, he visited Mecca, traveling via South Asia.He later recorded in his book that he received an unexpected welcome during this visit to Mecca, as a "citizen of the victorious nation" in the <uText id="U9"><label>(9)</label>Russo-Japanese War</uText>.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A7" answer_style="multipleChoice" answer_type="term_other" id="Q8" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one correct word to fill the gaps marked <ref comment="" target="B2">(A)</ref> in the sentences below in regard to the underlined portion <ref comment="" target="U7">(7)</ref>.                        
+      </instruction>
+                              <ansColumn id="A7">7</ansColumn><br/><br/> 1                        
+      <data id="D14" type="text">
+                                        During the 8th century, the <blank id="B2"><label>(A)</label></blank> movement, which advocated returning to the teachings of Muhammad, began on the Arabian Peninsula.The <ref target="B2">(A) </ref>movement triggered the spread via pilgrims of a Muslim revivalist movement in each area.<br />
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A7" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Twelver Shi'ism                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Nestorianism                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Wahhabism                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Presbyterianism                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A8" answer_style="multipleChoice" answer_type="(symbol-symbol)(symbol-symbol)" id="Q9" knowledge_type="KS,IC_M" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From 1-6 below, choose the one correct combination of positions <ref comment="image">a</ref>~<ref comment="image">c</ref> on the map below that indicates the locations referred to in sentences <ref target="L1">(A)</ref> and <ref target="L2">(B)</ref> below, which describe the cities through which the figure referred to in underlined portion <ref comment="" target="U8">(8)</ref> traveled on his pilgrimage.                        
+      </instruction>
+                              <ansColumn id="A8">8</ansColumn>                        
+      <data id="D15" type="text">
+                                        <lText id="L1"><label>(A)</label>- Muhammad undertook a hijra to this city.</lText><br />
+                                        <lText id="L2"><label>(B)</label>- This city prospered as the capital of the Umayyad Caliphate.</lText>                        
+      </data>
+                                                
+      <data id="D16" type="image">
+                                                                  
+        <img src="Center-2007--Main-SekaishiB-003.png"/>
+                                                          
+      </data>
+                              <br/><br/>                        
+      <choices anscol="A8" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="" target="L1">(A)</ref>-<ref comment="image" target="D16">a</ref><ref comment="" target="L2">(B)</ref>-<ref comment="image" target="D16">b</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="" target="L1">(A)</ref>-<ref comment="image" target="D16">a</ref><ref comment="" target="L2">(B)</ref>-<ref comment="image" target="D16">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="" target="L1">(A)</ref>-<ref comment="image" target="D16">b</ref><ref comment="" target="L2">(B)</ref>-<ref comment="image" target="D16">a</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="" target="L1">(A)</ref>-<ref comment="image" target="D16">b</ref><ref comment="" target="L2">(B)</ref>-<ref comment="image" target="D16">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                                  <cNum>(5)</cNum><ref comment="" target="L1">(A)</ref>-<ref comment="image" target="D16">c</ref><ref comment="" target="L2">(B)</ref>-<ref comment="image" target="D16">a</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="6">
+                                                  <cNum>(6)</cNum><ref comment="" target="L1">(A)</ref>-<ref comment="image" target="D16">c</ref><ref comment="" target="L2">(B)</ref>-<ref comment="image" target="D16">b</ref>                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A9" answer_style="multipleChoice" answer_type="sentence" id="Q10" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the underlined portion <ref comment="" target="U9">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A9">9</ansColumn><br/>                        
+      <choices anscol="A9" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>This war was triggered by Bloody Sunday.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>As a result of this war, Japan captured Taiwan and Penghu.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>During the presidency of the President of the United States of America who mediated in this war, Hawaii was absorbed into the United States of America.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>In the peace treaty ending this war, Japan was granted hegemony (predominant rights) over Korea.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q11" minimal="no">
+                    <label>[2]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Throughout history, humans have had links to various organisms. Above all, they have had deep relationships with domesticated animals, something that has had a major influence not only on their societies and cultures, but sometimes even on their approaches to their nations. Read the following texts A-C, which relate to the relationships between humans and domestic animals, and answer the questions (Questions 1-9) below.<br />
+                              (25 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D3" type="text">
+                              <label>A</label><br />
+                              Horses were domesticated around 6,000 years ago, with horses beginning to pull chariots in about 2,000 BCE.When horse riding (see <ref target="D17">picture</ref> below) spread due to improvements in the bits attached to bridles, <uText id="U10"><label>(1)</label>nomadic tribes on horseback</uText> emerged on the Eurasian continent.Their elusive character became a major threat to sedentary agricultural societies, so troops mounted on horseback were organized to counteract them.Rulers who sought good horses also emerged, such as <uText id="U11"><label>(2)</label>Emperor Wu of Han</uText>, who sought Ferghana horses, and horses became an important item in trade between agricultural peoples and nomads.Moreover, the <uText id="U12"><label>(3)</label>Mongol Empire</uText> expanded its territory through its powerful horseback-mounted troops and developed a post horse system, which facilitated the traffic of people and goods across the whole of Eurasia.                        
+      <data id="D17" type="image">
+                                                                
+        <img src="Center-2007--Main-SekaishiB-004.png"/>
+                                                        
+      </data>
+                              <br/><br/>                
+    </data>
+                                
+    <question anscol="A10" answer_style="multipleChoice" answer_type="term_other" id="Q12" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U10">(1)</ref>, from 1-4 below, choose the one name that correctly describes the nomadic tribe on horseback that came to prominence in the 6th century and built up a nation.                        
+      </instruction>
+                              <ansColumn id="A10">10</ansColumn><br/>                        
+      <choices anscol="A10" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>1 Scythians                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>2 Göktürks                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>3 Yuezhi                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>4 Xiongnu                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A11" answer_style="multipleChoice" answer_type="sentence" id="Q13" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From 1-4 below, choose that one sentence that correctly describes the achievements of the emperor referred to in the underlined portion <ref comment="" target="U11">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A11">11</ansColumn><br/>                        
+      <choices anscol="A11" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>He transferred the capital to Luoyang and attached importance to the domestic administration of the country.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>He established a national monopoly on items such as salt and iron, and sought to adjust and stabilize prices.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>He unified the systems of writing, weights and measures, and currency.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>He promulgated the commandery-county system and established the Three Departments and Six Ministries system.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A12" answer_style="multipleChoice" answer_type="sentence" id="Q14" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U12">(3)</ref>, from 1-4 below, choose the one sentence that incorrectly describes events that occurred under Mongol rule.                        
+      </instruction>
+                              <ansColumn id="A12">12</ansColumn><br/>                        
+      <choices anscol="A12" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Ögedei Khan destroyed the Jin dynasty and established the capital at Karakorum.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Under the Yuan dynasty, the Shoushi Calendar was created, influenced by science in the Muslim world.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Under Yuan rule, Han Chinese were favored, while the Semu caste from the Western Regions were despised.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Grand Canal that had been built previously was repaired, and new canals were built that ran to large cities.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D4" type="text">
+                              <label>B</label><br />
+                              There are two theories regarding the domestication of sheep.One is that they were first domesticated <uText id="U13"><label>(4)</label>approximately 9,000 years ago</uText> in western Asia, in order to supplement the unstable agricultural economy.The other is that nomads managing domestic animals emerged as the hunting peoples of inland Asia followed flocks of wild sheep and acquired the skills of milking and castrating them.At any rate, domesticated sheep were prized by both agricultural peoples and nomads as "walking" portable food, while their wood was treasured as <uText id="U14"><label>(5)</label>the raw material for making woolen cloth</uText>.In Mongolia, spilling the blood of a sheep on the land was viewed as taboo, a belief that developed because <uText id="U15"><label>(6)</label>Genghis Khan stipulated in a law that "a different method than that used in Islam shall be used"</uText>.Thus, perspectives on nature and religion were also reflected in the relationship with sheep.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A13" answer_style="multipleChoice" answer_type="sentence" id="Q15" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From 1-4 below, choose the most appropriate sentence concerning events during the time referred to in the underlined portion <ref comment="" target="U13">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A13">13</ansColumn><br/>                        
+      <choices anscol="A13" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The city-states of the Sumerians began to be formed.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Neanderthals emerged.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Bronze Age began.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The ice age ended and the climate began to warm up.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A14" answer_style="multipleChoice" answer_type="(symbol-term_location)(symbol-term_other)" id="Q16" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U14">(5)</ref>, from 1-4 below, choose the correct combination of words that fit into the gaps marked <ref comment="" target="B5">(A)</ref> and <ref target="B6">(B)</ref> in the texts below concerning wool production in Europe.                        
+      </instruction>
+                              <ansColumn id="A14">14</ansColumn><br/><br/>                        
+      <data id="D18" type="text">
+                                        In England in the first half of the 16th century, exports of woolen cloth to <blank id="B5"><label>(A)</label></blank> in the region of Flanders increased sharply, so there was a rise in enclosure focused on eliminating common land and converting land from arable to pasture, in order to increase wool production.As a result, the economy became more dynamic and a class of landowners called <blank id="B6"><label>(B)</label></blank> arose.<br />
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A14" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="" target="B5">(A)</ref>- Antwerpen (Antwerp)                      <ref comment="" target="B6">(B)</ref>- Yeomen<br />
+                                                                     
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="" target="B5">(A)</ref>- Antwerpen (Antwerp)                            <ref comment="" target="B6">(B)</ref>- Gentry<br />
+                                                                        
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="" target="B5">(A)</ref>- Hamburg<ref comment="" target="B6">(B)</ref>- Yeomen                                
+        </choice>
+                        	                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="" target="B5">(A)</ref>- Hamburg<ref comment="" target="B6">(B)</ref>- Gentry                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A15" answer_style="multipleChoice" answer_type="term_other" id="Q17" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U15">(6)</ref>, from 1-4 below, choose the one term that correctly describes the religion that was established after the time of Genghis Khan.                        
+      </instruction>
+                              <ansColumn id="A15">15</ansColumn><br/>                        
+      <choices anscol="A15" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Taoism                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Christianity                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Sikhism                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Buddhism                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D5" type="text">
+                              <label>C</label><br />
+                              The picture on the Christmas card showing a pig pulling Santa Claus's sleigh can be described as an example illustrating the close relationship between pigs and people in Europe (see the <ref target="D19">picture</ref> below).Before modern times, when livestock began to be raised in barns, pigs in <uText id="U16"><label>(7))</label>agricultural communities were turned out into the forests to forage, </uText>and they also ran freely through city streets.When winter came, the fattened pigs were captured and turned into salt-cured meat or sausages. In contrast, the consumption of this meat is prohibited under the precepts of Judaism and Islam.<uText id="U17"><label>(8)</label>In India in the latter half of the 19th century, a large-scale rebellion against colonial rule took place</uText>; one of the things that triggered this was the fact that Muslim soldiers revolted due to a rumor that pork fat had been used on the cartridges in their guns.                        
+      <data id="D19" type="image">
+                                                                
+        <img src="Center-2007--Main-SekaishiB-005.png"/>
+                                                        
+      </data>
+                              <br/><br/>                
+    </data>
+                                
+    <question anscol="A16" answer_style="multipleChoice" answer_type="sentence" id="Q18" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U16">(7)</ref>, from 1-4 below, choose the most appropriate sentence that describes agriculture and farmers in Europe.                        
+      </instruction>
+                              <ansColumn id="A16">16</ansColumn><br/>                        
+      <choices anscol="A16" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The three-field system of agriculture was popularized in the 6th century, increasing agricultural production.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Black Death (plague) epidemic dramatically reduced the farming population in the 12th century.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The peasant revolt called Jacquerie occurred in France in the 14th century.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Under the system of domain economies based on compulsory labor (Gutsherrschaft), grain was produced for export to Eastern Europe.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A17" answer_style="multipleChoice" answer_type="sentence" id="Q19" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From 1-4 below, choose the most appropriate sentence concerning the underlined portion <ref comment="" target="U17">(8)</ref>.                        
+      </instruction>
+                              <ansColumn id="A17">17</ansColumn><br/>                        
+      <choices anscol="A17" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>This rebellion is also called the Sipahi (Sepoy) Mutiny.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>In the midst of this rebellion, Gandhi conducted his campaign of passive resistance.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Ever Victorious Army was actively involved in suppressing this rebellion.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>After this rebellion, Queen Victoria also became the empress of the Mughal Empire.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A18" answer_style="multipleChoice" answer_type="(symbol-TF)*2" id="Q20" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In regard to the same underlined portion <ref comment="" target="U17">(8)</ref>, from 1-4 below, choose the correct combination of "correct" and "incorrect" in regard to the following sentences <ref target="L3">a</ref> and <ref target="L4">b</ref> concerning the independence of colonies following the Second World War.                        
+      </instruction>
+                              <ansColumn id="A18">18</ansColumn><br/>                        
+      <data id="D20" type="text">
+                                        <lText id="L3"><label>a</label>Iraq became independent.</lText><lText id="L4"><label>b</label>Mozambique became independent.</lText><br />
+                                                        
+      </data>
+                                                
+      <choices anscol="A18" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="" target="L3">a</ref>- Correct<ref comment="" target="L4">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="" target="L3">a</ref>- Correct<ref comment="" target="L4">b</ref>- Incorrect                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="" target="L3">a</ref>- Incorrect<ref comment="" target="L4">b</ref>- Correct                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="" target="L3">a</ref>- Incorrect<ref comment="" target="L4">b</ref>- Incorrect                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q21" minimal="no">
+                    <label>[3]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Nations have used symbols and legends concerning their founding and have created ideals in order to assert their legitimacy. Read the following texts A-C, which relate to such legends, symbols and ideals concerning nations, and answer the questions (Questions 1-9) below.<br />
+                              (25 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D6" type="text">
+                              <label>A</label><br />
+                              During the early Western Han dynasty, Jia Yi criticized the "rule of law" under the First Emperor, writing that, "he augmented his own power, made the penal code harsher, put military might ahead of the path of humanity and justice, and used tyranny as his primary means of ruling the country".During the <uText id="U18"><label>(1)</label>Ming dynasty</uText>, Zhou Jingxin said, "The length of time for which a nation prospers depends on its level of virtue. The <uText id="U19"><label>(2)</label>Han, Tang and Song dynasties lasted a long time, while dynasties such as Qin and Sui were short-lived</uText>; those that govern justly are long-lasting, while those that betray that principle are cut short".In other words, the "virtue" of its rulers was deemed to determine the fate of a nation. It was thought that key to a peaceful reign lay in the outstanding moral character of an emperor or dynasty, even if control over the nation had been gained by means of military might.The principle of "rule by virtue", which lasted for a long time in China, until the fall of the Qing dynasty <uText id="U20"><label>(3)</label>in the early 20th century</uText>, can be seen in this.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A19" answer_style="multipleChoice" answer_type="(symbol-term_person)*2" id="Q22" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From 1-4 below, choose the correct combination of words that fit into the gaps marked <ref comment="" target="B9">(A)</ref> and <ref target="B10">(B)</ref> in the sentences below describing events that occurred during the period referred to in the underlined portion <ref comment="" target="U18">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A19">19</ansColumn><br/><br/>                        
+      <data id="D21" type="text">
+                                        During the latter half of the Ming period, many missionaries from Europe began to visit China.<blank id="B10"><label>(B)</label></blank>, who belonged to the Society of Jesus (Jesuits), which was established by <blank id="B9"><label>(A)</label></blank>, did not only engage in missionary work, but also drew up the Kunyu Wanguo Quantu (Map of the Myriad Countries of the World), which played a part in showing China the extent of the world.<br />
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A19" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="" target="B9">(A)</ref>- Zwingli<ref comment="" target="B10">(B)</ref>- Matteo Ricci                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="" target="B9">(A)</ref>- Zwingli<ref comment="" target="B10">(B)</ref>- Müntzer                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="" target="B9">(A)</ref>- Ignatius of Loyola<ref comment="" target="B10">(B)</ref>- Matteo Ricci                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="" target="B9">(A)</ref>- Ignatius of Loyola<ref comment="" target="B10">(B)</ref>- Müntzer                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A20" answer_style="multipleChoice" answer_type="term_time" id="Q23" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From 1-4 below, in regard to the underlined portion <ref comment="" target="U19">(2)</ref>, choose the correct name of the era that lasted from the fall of the Tang dynasty until the establishment of the Song dynasty, in which there was a succession of short-lived dynasties and small independent states were established.                        
+      </instruction>
+                              <ansColumn id="A20">20</ansColumn><br/>                        
+      <choices anscol="A20" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Warring States period                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Sixteen Kingdoms period                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Southern and Northern Dynasties period                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Five Dynasties and Ten Kingdoms period                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A21" answer_style="multipleChoice" answer_type="sentence" id="Q24" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one incorrect sentence concerning events that occurred during the time referred to in the underlined portion <ref comment="" target="U20">(3)</ref>.                        
+      </instruction>
+                              <ansColumn id="A21">21</ansColumn><br/>                        
+      <choices anscol="A21" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Outer Mongolia declared its independence at the time of the Xinhai Revolution.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Chinese government refused to sign the Treaty of Versailles.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The policy of "alliance with Soviet Russia, co-operation with the Communist Party, and assistance to the workers and peasants" was set forth by Sun Yat-sen.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>In Taiwan, the Tungning family surrendered to the Qing dynasty.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D7" type="text">
+                              <label>B</label><br />
+                              Various legends surround the founding of the United States of America.For example, the tale that a woman called Betsy Ross made the Stars and Stripes flag, which is the <uText id="U21"><label>(4)</label>national flag of the United States of America</uText>, at the request of George Washington is believed to be a legend that soon became widely believed to be true, stemming from a story that began to be told almost a hundred years after the nation achieved independence(see <ref target="D22">picture</ref> below).Moreover, the <uText id="U22"><label>(5)</label>Declaration of Independence document</uText> contained in the National Archives was not drawn up on the Fourth of July, which became American Independence Day; in fact, the document was signed the following month.However, both the former Presidents Adams and Jefferson died on the Fourth of July, on the 50th anniversary of the Declaration of Independence, so that date became even more sacrosanct.Subsequently, <uText id="U23"><label>(6)</label>President Monroe</uText> also died on the Fourth of July, on the 55th anniversary of the Declaration of Independence.                        
+      <data id="D22" type="image">
+                                                                
+        <img src="Center-2007--Main-SekaishiB-006.png"/>
+                                                        
+      </data>
+                              <br/><br/>                
+    </data>
+                                
+    <question anscol="A22" answer_style="multipleChoice" answer_type="term_location" id="Q25" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        Regarding the underlined portion <ref comment="" target="U21">(4)</ref>, the Stars and Stripes flag in the <ref target="D22">picture</ref> has 13 stars and 13 stripes, representing the 13 colonies that became independent as the United States of America.From 1-4 below, choose the name of the place that was not one of those 13 colonies.                        
+      </instruction>
+                              <ansColumn id="A22">22</ansColumn><br/>                        
+      <choices anscol="A22" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Massachusetts                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>New York                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Virginia                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Florida                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A23" answer_style="multipleChoice" answer_type="sentence" id="Q26" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the American Revolution in regard to the underlined portion <ref comment="" target="U22">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A23">23</ansColumn><br/>                        
+      <choices anscol="A23" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Thomas Paine published "Common Sense".                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Jefferson was appointed commander-in-chief of the armies of the 13 colonies.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Great Britain participated in the League of Armed Neutrality.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The British Army won the Siege of Yorktown.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A24" answer_style="multipleChoice" answer_type="(symbol-term_location)*2" id="Q27" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From 1-4 below, choose the most appropriate combination of words that fit into the gaps marked <ref comment="" target="B11">(A)</ref> and <ref target="B12">(B)</ref> in the sentences below concerning the president referred to in the underlined portion <ref comment="" target="U23">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A24">24</ansColumn><br/><br/>                        
+      <data id="D23" type="text">
+                                        In December 1823, in the annual State of the Union Address to Congress, he advocated a diplomatic policy focused on such matters as nonintervention between <blank id="B11"><label>(A)</label></blank> and <blank id="B12"><label>(B)</label></blank>.This is called the Monroe Doctrine.<br />
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A24" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref comment="" target="B11">(A)</ref>- The Americas<ref comment="" target="B12">(B)</ref>- Asia                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref comment="" target="B11">(A)</ref>- The Americas<ref comment="" target="B12">(B)</ref>- Europe                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref comment="" target="B11">(A)</ref>- The African continent<ref comment="" target="B12">(B)</ref>- Asia                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref comment="" target="B11">(A)</ref>- The African continent<ref comment="" target="B12">(B)</ref>- Europe                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D8" type="text">
+                              <label>C</label><br />
+                              <uText id="U24">During the<label>(7)</label>French Revolution</uText>, in Paris, a new concept of a nation was articulated: the republic.The Church of St. Geneviève was renamed the Panthéon and it became the burial place of <uText id="U25"><label>(8)</label>Enlightenment thinkers</uText> and revolutionaries, where they were commemorated and mythicized (see <ref target="D24">picture</ref> below).A spacious avenue crossing central Paris linked the site of the Bastille prison with the Place de la Révolution (now known as the Place de la Concorde), and there were plans to symbolize the revolution in the city's urban spaces.This plan for the city was left unfinished, but despite subsequent restorations of the monarchy and two periods of imperial rule, the principle of republicanism gradually took root in France, leading to the <uText id="U26"><label>(9)</label>Fifth Republic</uText> that exists today.                        
+      <data id="D24" type="image">
+                                                                
+        <img src="Center-2007--Main-SekaishiB-007.png"/>
+                                                        
+      </data>
+                              <br/><br/>                
+    </data>
+                                
+    <question anscol="A25" answer_style="multipleChoice" answer_type="sentence" id="Q28" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the parliament and government during the period referred to in the underlined portion <ref comment="" target="U24">(7)</ref>.                        
+      </instruction>
+                              <ansColumn id="A25">25</ansColumn><br/>                        
+      <choices anscol="A25" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The national assembly (National Constituent Assembly) declared war on Austria and started a battle.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Legislative Assembly was overthrown by the coup d'état of 18 Brumaire.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The National Convention adopted the French Revolutionary Calendar (French Republican Calendar).                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Directory executed the King and declared a republic.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A26" answer_style="multipleChoice" answer_type="sentence" id="Q29" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U25">(8)</ref>.                        
+      </instruction>
+                              <ansColumn id="A26">26</ansColumn><br/>                        
+      <choices anscol="A26" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Montesquieu wrote "The Spirit of the Laws", in which he advocated the separation of the three branches of government.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Rousseau compiled the "Encyclopédie " with Molière.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Lafayette wrote "What Is the Third Estate?"                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Quesnay wrote "Tableau économique", in which he advocated mercantilism.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A27" answer_style="multipleChoice" answer_type="sentence" id="Q30" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the foreign policy of France during the period referred to in the underlined portion <ref comment="" target="U26">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A27">27</ansColumn><br/>                        
+      <choices anscol="A27" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>It occupied the Ruhr.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>It concluded the Quintuple Alliance.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>It permitted the independence of Algeria.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>It dispatched troops to Mexico.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q31" minimal="no">
+                    <label>[4]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              People with shared political and economic objectives or religious beliefs have explored alliances in various forms. Read the following texts A-C, which relate to forms of alliance and organization peculiar to their respective ages and regions, and answer the questions (Questions 1-9) below.<br />
+                              (25 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D9" type="text">
+                              <label>A</label><br />
+                              In Europe in ancient times, alliances were constructed in order to attack common enemies or as a means of defense.<uText id="U27"><label>(1)</label>In Ancient Greece, Athens and Sparta each formed alliances with city-states (poleis (plural of polis)), with themselves as the leaders of those alliances.</uText>In western Europe, after the collapse of the Western Roman Empire, <uText id="U28"><label>(2)</label>Francia quickly formed an affiliation with the Church in Rome</uText> (see the <ref target="D25">picture</ref> below), as a result of which it was able to secure new authority and capture a power base ahead of the other Germanic kingdoms.It interests coincided with those of the Pope, who required support from a secular power.Moreover, subsequently, <uText id="U29">various interests mingled in the <label>(3)</label>Holy Roman Empire, and a diverse range of alliances were frequently formed in relation to the policies of the Emperor, as well as in the midst of sectarian conflict.<br />
+                              </uText>                        
+      <data id="D25" type="image">
+                                                                
+        <img src="Center-2007--Main-SekaishiB-008.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A28" answer_style="multipleChoice" answer_type="term_other" id="Q32" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From 1-4 below, choose the correct name for the alliance formed with Sparta as the leader, in regard to the underlined portion <ref comment="" target="U27">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A28">28</ansColumn><br/>                        
+      <choices anscol="A28" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Delian League                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Peloponnesian League                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The League of Corinth                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Quadruple Alliance                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A29" answer_style="multipleChoice" answer_type="o(symbol-symbol-symbol)" id="Q33" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From 1-6 below, in regard to the underlined portion <ref comment="" target="U28">(2)</ref>, choose the option showing the correct sequence of events in sentences <ref>a</ref>~<ref>c</ref> below, starting with the oldest first, concerning Francia and the subsequent King of East Francia.                        
+      </instruction>
+                              <ansColumn id="A29">29</ansColumn><br/>                        
+      <data id="D26" type="text">
+                                        <lText id="L5"><label>a</label>Otto I created the rank of Holy Roman Emperor.</lText><br />
+                                        <lText id="L6"><label>b</label>Clovis converted to Athanasianism (Catholicism).</lText><br />
+                                        <lText id="L7"><label>c</label>Pepin became king.</lText>                        
+      </data>
+                                                
+      <choices anscol="A29" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum><ref target="L5">a</ref>→<ref target="L6">b</ref>→<ref target="L7">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum><ref target="L5">a</ref>→<ref target="L7">c</ref>→<ref target="L6">b</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum><ref target="L6">b</ref>→<ref target="L5">a</ref>→<ref target="L7">c</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum><ref target="L6">b</ref>→<ref target="L7">c</ref>→<ref target="L5">a</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                                  <cNum>(5)</cNum><ref target="L7">c</ref>→<ref target="L5">a</ref>→<ref target="L6">b</ref>                                
+        </choice>
+                                                                
+        <choice ansnum="6">
+                                                  <cNum>(6)</cNum><ref target="L7">c</ref>→<ref target="L6">b</ref>→<ref target="L5">a</ref>                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A30" answer_style="multipleChoice" answer_type="sentence" id="Q34" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the underlined portion <ref comment="" target="U29">(3)</ref>.                        
+      </instruction>
+                              <ansColumn id="A30">30</ansColumn><br/>                        
+      <choices anscol="A30" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The cities of northern Italy formed the Lombard League and fought the emperor.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>Catholic powers formed the Schmalkaldic League and fought the emperor.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Vassal states formed the Union of Utrecht in order to end the interregnum.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>The Holy Roman Emperor advocated the League of the Three Emperors, along with the Byzantine Emperor.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D10" type="text">
+                              <label>B</label><br />
+                              The Enlightenment in Europe brought about a new perspective on the world, which was based on an acknowledgment of the reason of humanity and the conscience of the individual, and behavior grounded in this. The intellectual background to this was the emergence of a new way for people to connect to each other, in which autonomous citizens formed groups based on their own free will, concluded agreements based on equal entitlements, and elected representatives.Such societies of citizens were supported by the <uText id="U30"><label>(4)</label>liberalism of the 19th century</uText>, and the revolutions of 1848 saw demands being made for "freedom of assembly" in various European cities.<uText id="U31">The development of <label>(5)</label>constitutional government and parliamentary systems</uText> in Europe would have been unimaginable without a political culture of such assembly.In the latter half of the 19th century, activities focused on developing organizations <uText id="U32">spread to <label>(6)</label>workers</uText> and farmers, who sought to protect their interests, and representatives of these groups were also sent to parliaments.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A31" answer_style="multipleChoice" answer_type="sentence" id="Q35" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the underlined portion <ref comment="" target="U30">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A31">31</ansColumn><br/>                        
+      <choices anscol="A31" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In Germany, under the Congress of Vienna settlement, a group called the Carbonari was formed, which sought freedom and unity.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>As a result of the July Revolution, Belgium became independent of France.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>In Great Britain, the Test Acts were enacted, opening up the way for Nonconformists to take up public employment.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Kossuth led the 1848 revolution (March Revolution) in Hungary.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A32" answer_style="multipleChoice" answer_type="sentence" id="Q36" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one incorrect sentence concerning the underlined portion <ref comment="" target="U31">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A32">32</ansColumn><br/>                        
+      <choices anscol="A32" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>In Russia, during the November (October) Revolution, the Tsar promised to establish a parliament (Duma).                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>In Great Britain, the right to vote was extended over the course of a number of revisions of the election laws.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>In the German Empire, the Reichstag (imperial parliament) was elected on the basis of universal male suffrage.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>In France, the Third Republic was formed after the country's defeat in the Franco-Prussian War (war between France and Prussia).                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A33" answer_style="multipleChoice" answer_type="sentence" id="Q37" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the labor movement and socialism in Europe in regard to the underlined portion <ref comment="" target="U32">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A33">33</ansColumn><br/>                        
+      <choices anscol="A33" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>Fourier and others organized the First International.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Soviet regime formed in Russia established the Second International.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>Marx and Engels published the "Manifesto of the Communist Party".                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Bismarck supported the socialists.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D11" type="text">
+                              <label>C</label><br />
+                              In China, there are many secret societies centered on religion, such as the Taiping Dao sect, which started the Yellow Turban Rebellion at the end of the Later Han period. From the Song period onward, the White Lotus Society, which believed that the Maitreya Buddha would descend to Earth and help people, spread and there were frequent rebellions that had elements that were revolutions against the existing regime.At the end of the Yuan period, <blank id="B16"><label>(7)</label></blank> occurred, and the figure who emerged from this established the Ming dynasty.During the Qing period, there was an outbreak of rebellion by White Lotus Society members, in the year when the <uText id="U33"><label>(8)</label>Qianlong Emperor</uText> abdicated.At the end of the 19th century, the <uText id="U34"><label>(9)</label>Boxer Rebellion</uText> occurred and groups of women, called Red Lanterns Shining (Hongdengzhao) emerged as organizations to help the Boxers.Many were girls in their teens and they clothed themselves in costumes that looked like something out of a fairytale (see <ref target="D27">picture</ref> below); rumors even ran riot that "they flew through the sky and rained fire down on the capital cities of Russia and Japan".                        
+      <data id="D27" type="image">
+                                                                
+        <img src="Center-2007--Main-SekaishiB-009.png"/>
+                                                        
+      </data>
+                              <br/><br/>                
+    </data>
+                                
+    <question anscol="A34" answer_style="multipleChoice" answer_type="term_other" id="Q38" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From 1-4 below, choose the correct name for the rebellion that should be inserted into the gap marked <ref comment="" target="B16">(7)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A34">34</ansColumn><br/>                        
+      <choices anscol="A34" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>the Chimei (Red Eyebrow) Rebellion                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>the Huang Chao Rebellion                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>the An Lushan Rebellion                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>the Red Turban Rebellion                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A35" answer_style="multipleChoice" answer_type="sentence" id="Q39" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the reign of the emperor referred to in the underlined portion <ref comment="" target="U33">(8)</ref>.                        
+      </instruction>
+                              <ansColumn id="A35">35</ansColumn><br/>                        
+      <choices anscol="A35" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>He conquered the Zunghar Khanate.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>He established the "Zongli Geguo Shiwu Yamen" ("Zongli Yamen"; "Office in charge of Affairs of All Nations").                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>He concluded the Treaty of Kyakhta with Russia.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>He overthrew the Khwarazmian dynasty (dynasty of Khwarazm Shahs).                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A36" answer_style="multipleChoice" answer_type="sentence" id="Q40" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From 1-4 below, choose the one sentence that correctly describes the underlined portion <ref comment="" target="U34">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A36">36</ansColumn><br/>                        
+      <choices anscol="A36" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>(1)</cNum>The Boxer Rebellion broke out in Shanxi Province.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>(2)</cNum>The Boxers took "support the Qing, destroy the Foreign" as their slogan.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>(3)</cNum>The Portuguese Army participated in the army of the Eight Nations Alliance.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>(4)</cNum>Under the Convention of Peking, the stationing of foreign armed forces in Shanghai was permitted.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+</exam>
